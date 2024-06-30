@@ -38,6 +38,7 @@ Pastikan mengikuti langkah-langkah dibawah ini:
 - Hapus semua data yang ada di dalam folder data.
 - Masukan data gambar yang ingin anda ekstrak fiturnya ke dalam folder data.
 - Klik Mulai dan saat selesai akan terdapat file features_resnet50.npy di dalam folder features.
+
 Image retrieval dengan data yang sudah di sesuaikan sudah siap.
 
 # Dataset default
