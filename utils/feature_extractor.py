@@ -1,7 +1,7 @@
 # Import the libraries
-from tensorflow.keras.preprocessing import image
-from tensorflow.keras.applications.resnet50 import ResNet50, preprocess_input
-from tensorflow.keras.models import Model
+from tensorflow.keras.preprocessing import image # type: ignore
+from tensorflow.keras.applications.resnet50 import ResNet50, preprocess_input # type: ignore
+from tensorflow.keras.models import Model # type: ignore
 import numpy as np
 
 class FeatureExtractor:
