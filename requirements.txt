@@ -1,0 +1,5 @@
+streamlit==1.35.0
+streamviz==5.1
+tensorflow==2.10.0
+numpy==1.23.0
+Pillow==9.2.0
